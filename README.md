@@ -1,6 +1,6 @@
-# expense_tracker
+# Expense_Tracker
 
-A new Flutter project.
+A simple and clean Expense Tracker application built with Flutter, using Provider for state management and SharedPreferences for local data persistence.
 
 ## Getting Started
 
